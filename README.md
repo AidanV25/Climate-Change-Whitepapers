@@ -13,6 +13,8 @@ The goal is to provide credibility to my product and system solutions by showing
 - [An Observational Constraint for Future Greenland Rain in a Warmer Atmosphere](https://doi.org/10.1029/2025GL114710) — Thompson-Munson et al., *GRL*, 2025  
   _Finds that just 2.3°C warming could double rainfall over Greenland’s ice sheet, amplifying melt and sea level rise._
 
+
+
 ### Agriculture & Food Systems
 - [Earlier Planting Fails to Replicate Historical Production Conditions for US Spring Wheat](https://doi.org/10.1038/s43247-025-02716-0) — Savalkar et al., *Communications Earth & Environment*, 2025  
   _Shows that planting earlier will not offset heat stress impacts on U.S. spring wheat; 67% of wheat production regions remain highly vulnerable._
@@ -21,12 +23,18 @@ The goal is to provide credibility to my product and system solutions by showing
   _On my To-Read 
 
 
+
 ### Climate Effects (Tipping Points)
 - [High Probability of Triggering Climate Tipping Points Under Current Policies](https://doi.org/10.5194/esd-16-565-2025) — Deutloff, Held & Lenton, *Earth System Dynamics*, 2025  
   _Estimates a >60% probability of crossing multiple tipping points under current policies (SSP2-4.5), with Amazon dieback and permafrost thaw amplifying risks._
 
 - [Unprecedentdly high global forest disturbance due to fire in 2023 & 2024.pdf](https://github.com/user-attachments/files/22026092/Unprecedentdly.high.global.forest.disturbance.due.to.fire.in.2023.2024.pdf)
   _
+
+- Paper: Increasing risk of global forest loss from extreme wildfires under climate change [Increasing risk of global forest loss from extreme wildfires under climate change.pdf](https://github.com/user-attachments/files/22027581/Increasing.risk.of.global.forest.loss.from.extreme.wildfires.under.climate.change.pdf)
+Citation: Huang, K., Wu, X., Zhang, L., Geng, H., & Qu, Y. (2025). Increasing risk of global forest loss from extreme wildfires under climate change. International Journal of Digital Earth, 18(1), 2483982. https://doi.org/10.1080/17538947.2025.2483982
+Summary:
+This paper highlighted how, over the study period from 2011–2023, both the volume and size of wildfires have been increasing, with the most pronounced changes occurring in the Boreal Forest. Burned volume has risen most in the Northern Hemisphere (40–60°N), while fire size has expanded most in the Southern Hemisphere (10–30°S). The authors also noted an increase in new forest growth in cooler, wetter northern regions; however, these areas become additional fuel sources during recurring hot–dry anomalies, which typically last 1–2 years. To conclude, the paper underscores a critical issue not only for wildlife and global forest stability, but also for broader ecosystem and agricultural resilience, as similar dynamics may manifest in crop systems.
 
 
 ### Climate Sensitivity
