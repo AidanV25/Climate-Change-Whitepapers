@@ -25,9 +25,11 @@ The goal is to provide credibility to my product and system solutions by showing
 
 
 ### Climate Effects (Tipping Points)
-- [High probability of triggering climate tipping points under current policies modestly amplified by Amazon dieback and permafrost thaw](https://doi.org/10.5194/esd-16-565-2025) — Deutloff, Held & Lenton, *Earth System Dynamics*, 2025  
+- [High probability of triggering climate tipping points under current policies modestly amplified by Amazon dieback and permafrost thaw (PDF)](https://github.com/user-attachments/files/22027978/High.probability.of.triggering.climate.tipping.points.under.current.policies.modestly.amplified.by.Amazon.dieback.and.permafrost.thaw.pdf)  
+Deutloff, Held & Lenton, *Earth System Dynamics*, 2025  
 
 _Summary: This paper examined how under SSP2-4.5 there exists a critical threshold where carbon emissions from tipping elements (TEs) begin to balance and amplify anthropogenic CO₂ emissions. The authors assessed probabilities of different TEs being triggered across scenarios, showing that SSP1-1.9 carries relatively low risk, whereas SSP2-4.5 exhibits a high probability of abrupt or even catastrophic tipping, making it an especially dangerous pathway. They conclude that SSP2-4.5 represents a paradoxical state: while not the highest-emission scenario, it locks the Earth system into long-term warming as TEs such as Amazon dieback and permafrost thaw continue driving feedbacks over the next 500 years. In contrast, SSP3-7.0 and SSP5-8.5 reflect outright planetary destruction, where TEs merely accelerate an already devastating trajectory._
+
 
 
 - [Unprecedentdly high global forest disturbance due to fire in 2023 & 2024.pdf](https://github.com/user-attachments/files/22026092/Unprecedentdly.high.global.forest.disturbance.due.to.fire.in.2023.2024.pdf)
