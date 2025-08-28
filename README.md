@@ -17,9 +17,17 @@ The goal is to provide credibility to my product and system solutions by showing
 - [Earlier Planting Fails to Replicate Historical Production Conditions for US Spring Wheat](https://doi.org/10.1038/s43247-025-02716-0) — Savalkar et al., *Communications Earth & Environment*, 2025  
   _Shows that planting earlier will not offset heat stress impacts on U.S. spring wheat; 67% of wheat production regions remain highly vulnerable._
 
-### Climate Tipping Points
+- [Climate extremes, food price spikes, and their wider societal risks.pdf](https://github.com/userattachments/files/22026067/Climate.extremes.food.price.spikes.and.their.wider.societal.risks.pdf)
+  _On my To-Read 
+
+
+### Climate Effects (Tipping Points)
 - [High Probability of Triggering Climate Tipping Points Under Current Policies](https://doi.org/10.5194/esd-16-565-2025) — Deutloff, Held & Lenton, *Earth System Dynamics*, 2025  
   _Estimates a >60% probability of crossing multiple tipping points under current policies (SSP2-4.5), with Amazon dieback and permafrost thaw amplifying risks._
+
+- [Unprecedentdly high global forest disturbance due to fire in 2023 & 2024.pdf](https://github.com/user-attachments/files/22026092/Unprecedentdly.high.global.forest.disturbance.due.to.fire.in.2023.2024.pdf)
+  _
+
 
 ### Climate Sensitivity
 - [Seeing the Forest for the Trees](https://www.columbia.edu/~jeh1/mailings/2025/ForestTrees.06August2025.pdf) — Hansen & Kharecha, 2025  
