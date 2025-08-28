@@ -26,7 +26,7 @@ The goal is to provide credibility to my product and system solutions by showing
 
 ### Climate Effects (Tipping Points)
 - High probability of triggering climate tipping points under current policies modestly amplified by Amazon dieback and permafrost thaw
-_(https://github.com/userattachments/files/22027834/High.probability.of.triggering.climate.tipping.points.under.current.policies.modestly.amplified.by.Amazon.dieback.and.permafrost.thaw.pdf)_
+(https://github.com/user-attachments/files/22027978/High.probability.of.triggering.climate.tipping.points.under.current.policies.modestly.amplified.by.Amazon.dieback.and.permafrost.thaw.pdf)
 
 (https://doi.org/10.5194/esd-16-565-2025) — Deutloff, Held & Lenton, *Earth System Dynamics*, 2025
   
