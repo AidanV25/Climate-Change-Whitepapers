@@ -25,13 +25,14 @@ The goal is to provide credibility to my product and system solutions by showing
 
 
 ### Climate Effects (Tipping Points)
-- [High Probability of Triggering Climate Tipping Points Under Current Policies](https://doi.org/10.5194/esd-16-565-2025) — Deutloff, Held & Lenton, *Earth System Dynamics*, 2025  
-  _Estimates a >60% probability of crossing multiple tipping points under current policies (SSP2-4.5), with Amazon dieback and permafrost thaw amplifying risks._
+- [High probability of triggering climate tipping points under current policies modestly amplified by Amazon dieback and permafrost thaw.pdf](https://github.com/user-attachments/files/22027834/High.probability.of.triggering.climate.tipping.points.under.current.policies.modestly.amplified.by.Amazon.dieback.and.permafrost.thaw.pdf)
+(https://doi.org/10.5194/esd-16-565-2025) — Deutloff, Held & Lenton, *Earth System Dynamics*, 2025  
+  _This paper examined how under SSP2-4.5 there exists a critical threshold where carbon emissions from tipping elements (TEs) begin to balance and amplify anthropogenic CO₂ emissions. The authors assessed probabilities of different TEs being triggered across scenarios, showing that SSP1-1.9 carries relatively low risk, whereas SSP2-4.5 exhibits a high probability of abrupt or even catastrophic tipping, making it an especially dangerous pathway. They conclude that SSP2-4.5 represents a paradoxical state: while not the highest-emission scenario, it locks the Earth system into long-term warming as TEs such as Amazon dieback and permafrost thaw continue driving feedbacks over the next 500 years. In contrast, SSP3-7.0 and SSP5-8.5 reflect outright planetary destruction, where TEs merely accelerate an already devastating trajectory.
 
 - [Unprecedentdly high global forest disturbance due to fire in 2023 & 2024.pdf](https://github.com/user-attachments/files/22026092/Unprecedentdly.high.global.forest.disturbance.due.to.fire.in.2023.2024.pdf)
   _
 
-- Paper: Increasing risk of global forest loss from extreme wildfires under climate change [Increasing risk of global forest loss from extreme wildfires under climate change.pdf](https://github.com/user-attachments/files/22027581/Increasing.risk.of.global.forest.loss.from.extreme.wildfires.under.climate.change.pdf)
+- [Increasing risk of global forest loss from extreme wildfires under climate change.pdf](https://github.com/user-attachments/files/22027581/Increasing.risk.of.global.forest.loss.from.extreme.wildfires.under.climate.change.pdf)
 Citation: Huang, K., Wu, X., Zhang, L., Geng, H., & Qu, Y. (2025). Increasing risk of global forest loss from extreme wildfires under climate change. International Journal of Digital Earth, 18(1), 2483982. https://doi.org/10.1080/17538947.2025.2483982
 Summary:
 This paper highlighted how, over the study period from 2011–2023, both the volume and size of wildfires have been increasing, with the most pronounced changes occurring in the Boreal Forest. Burned volume has risen most in the Northern Hemisphere (40–60°N), while fire size has expanded most in the Southern Hemisphere (10–30°S). The authors also noted an increase in new forest growth in cooler, wetter northern regions; however, these areas become additional fuel sources during recurring hot–dry anomalies, which typically last 1–2 years. To conclude, the paper underscores a critical issue not only for wildlife and global forest stability, but also for broader ecosystem and agricultural resilience, as similar dynamics may manifest in crop systems.
