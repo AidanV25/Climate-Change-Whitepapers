@@ -38,7 +38,7 @@ _Summary: This paper highlighted how, over the study period from 2011–2023, bo
 
 
 ### Climate Sensitivity
-- [Seeing the Forest for the Trees](https://www.columbia.edu/~jeh1/mailings/2025/ForestTrees.06August2025.pdf) — Hansen & Kharecha, 2025  
+-[Seeing the forest for the trees.pdf](https://github.com/user-attachments/files/22081374/Seeing.the.forest.for.the.trees.pdf) — Hansen & Kharecha, 2025  
   _Argues that equilibrium climate sensitivity is closer to 4.8°C for doubled CO₂, far higher than IPCC’s central estimate, due to underestimated cloud feedbacks._
 
 ---
