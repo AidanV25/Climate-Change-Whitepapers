@@ -39,7 +39,7 @@ _Summary: This paper highlighted how, over the study period from 2011–2023, bo
 
 ### Climate Sensitivity
 -[Seeing the forest for the trees.pdf](https://github.com/user-attachments/files/22081374/Seeing.the.forest.for.the.trees.pdf) — Hansen & Kharecha, 2025  
-  _Argues that equilibrium climate sensitivity is closer to 4.8°C for doubled CO₂, far higher than IPCC’s central estimate, due to underestimated cloud feedbacks._
+  _Argues that equilibrium climate sensitivity is closer to 4.8°C for doubled CO₂, far higher than IPCC’s central estimate, due to underestimated cloud feedbacks. Back when climate when cliamte modeling began, the estimate of 3.0°C with a +/- of 1.5°C was the estimate, but it came with a 50% confidence, which in scintific terms, is low. Through time, James Hansen, through empirical evidence and new calcualtions on the affects of mainly clouds(which give a higher solar reflectivity called albedo) and aerosols(which also give a reflective effect) has shown to be dampening the true effects of the increase of CO₂. This leads to the conclusion that we have been underestimating how much warming will occur due to a doubling of CO₂._
 
 ---
 
