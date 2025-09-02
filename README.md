@@ -1,6 +1,5 @@
 # Climate-Change-Whitepapers
-This is a repository of whitepapers that I have read. Climate Change is my generations biggest problem, and I believe, though it is a bit abstract, it's humanity's greatest challenge. This is here to showcase the knowledge I have consumed from the climate scientists in the fields, providing credibility to the product solutions I create.
-The goal is to provide credibility to my product and system solutions by showing the breadth of peer-reviewed research that informs my work.
+This is a repository of whitepapers that I have read. Climate Change is my generations biggest problem, and I'd state, though it is a bit abstract, I believe it's humanity's greatest challenge. This is here to provide insights into the research that I am keeping up to date with; giving depth into why I come up with the solutions I propose.
 
 ---
 
