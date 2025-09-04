@@ -1,5 +1,5 @@
 # Climate-Change-Whitepapers
-This is a repository of whitepapers that I have read. Climate Change is my generations biggest problem, and I'd state, though it is a bit abstract, I believe it's humanity's greatest challenge. This is here to provide insights into the research that I am keeping up to date with; giving depth into why I come up with the solutions I propose.
+This is a repository of whitepapers that I have recently read (and started tracking). Climate Change is my generations biggest problem, and I'd state, though it is a bit abstract, I believe it's humanity's greatest challenge. This is here to provide insights into the research that I am keeping up to date with; giving depth into why I come up with the solutions I propose.
 
 ---
 
